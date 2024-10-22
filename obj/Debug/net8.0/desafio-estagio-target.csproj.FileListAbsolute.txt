@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\bin\Debug\net8.0\desafio-estagio-target.exe
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\bin\Debug\net8.0\desafio-estagio-target.deps.json
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\bin\Debug\net8.0\desafio-estagio-target.runtimeconfig.json
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\bin\Debug\net8.0\desafio-estagio-target.dll
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\bin\Debug\net8.0\desafio-estagio-target.pdb
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.dll
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\refint\desafio-estagio-target.dll
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.pdb
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\ref\desafio-estagio-target.dll
+C:\Users\Administrador\Desktop\Alisson\Cursos\programação\desafio-estagio-target\obj\Debug\net8.0\desafio-estagio-target.sourcelink.json
